@@ -1,27 +1,91 @@
-# 👋 Hi, I'm skalwaghe_56!
+<h1 align="center">🌟 Hey there, I'm <b>Shreyash Kalwaghe</b> (aka skalwaghe_56) 👋</h1>
+<p align="center">
+  <b>15-year-old Open-Source Enthusiast | Python Developer | Lifelong Learner 🚀</b><br>
+  <i>"Coding. Learning. Contributing. — One commit at a time."</i>
+</p>
 
-I'm a **15-year-old student** from Pune, passionate about coding and open-source. As a young and enthusiastic Python lover, I'm always ready to learn, contribute, and collaborate!
-
-## 🚀 About Me
-- 🐍 Python enthusiast (with some experience in other languages)
-- 🛠️ Always looking for new challenges and opportunities to contribute
-- 💬 Open to helping out on open-source projects and becoming a maintainer
-
-## 🌟 Top Projects
-- **[Alix-cli](https://github.com/skalwaghe-56/Alix-cli)**: A handy tool for command-line aficionados.
-- **[calculator](https://github.com/skalwaghe-56/calculator)**: My personal calculator project.
-- **[diffium](https://github.com/skalwaghe-56/diffium)**: Explore differences in files and data.
-- **pandas**: Contributor to the well-known data analysis library!
-
-## 🧑‍💻 Languages & Skills
-- **Python**
-- (And more — check out my repos for C/C++, JavaScript, and other experiments!)
-
-## 📫 Let's Connect!
-- Email: skalwaghe56@gmail.com
+<p align="center">
+  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=600&size=20&duration=2500&pause=1000&color=00F5C8&center=true&vCenter=true&width=650&lines=Building+the+Future,+One+Commit+at+a+Time+⚡;15+and+Already+Shipping+Ideas+🚀;Turning+Dreams+into+Code+💻;Creating+Impact,+Not+Just+Projects+🌍;Disrupting+the+Ordinary+with+Extraordinary+Code+🔥" alt="Typing SVG" />
+</p>
 
 ---
 
-> “Always ready to contribute and become a maintainer!”
+## 🚀 About Me
+I'm a **15-year-old developer** from Pune who loves building, breaking, and improving things with code.  
+A passionate **Python lover** and active open-source contributor, I believe in growing through collaboration, curiosity, and contribution.  
 
-Thanks for stopping by! ⭐
+- 🐍 Python enthusiast (with experience in a few other languages too)  
+- 🧩 Contributor to open-source projects — always learning something new  
+- 💬 Open to helping others, sharing knowledge, and maintaining great projects  
+- 💡 I love solving problems that make coding feel effortless  
+
+---
+
+## 🌟 Top Projects
+- **[alix-cli](https://github.com/TheDevOpsBlueprint/alix-cli)** — A handy tool for command-line aficionados.  
+- **[calculator](https://arcadepointspro.vercel.app)** — A simple points calculator made from scratch.
+- 🐼 **pandas** — Contributor to the legendary data analysis library!  
+
+---
+
+## 🧠 Languages & Skills
+- **Python** (my main playground)  
+- **C/C++**, **JavaScript**, and other experiments hidden across my repos 😉  
+- Comfortable with **CLI tools**, **testing**, and **open-source workflows**  
+
+---
+
+## 🏅 Badges & Achievements
+[![An image of @skalwaghe56's Holopin badges, which is a link to view their full Holopin profile](https://holopin.me/skalwaghe56)](https://holopin.io/@skalwaghe56)
+
+---
+
+## 📊 GitHub Stats
+
+<p align="center">
+  <picture>
+    <source 
+      srcset="https://github-readme-stats.vercel.app/api?username=skalwaghe-56&show_icons=true&theme=tokyonight"
+      media="(prefers-color-scheme: dark)" />
+    <source 
+      srcset="https://github-readme-stats.vercel.app/api?username=skalwaghe-56&show_icons=true&theme=default"
+      media="(prefers-color-scheme: light)" />
+    <img src="https://github-readme-stats.vercel.app/api?username=skalwaghe-56&show_icons=true" height="165" alt="GitHub Stats" />
+  </picture>
+
+  <picture>
+    <source 
+      srcset="https://github-readme-streak-stats.herokuapp.com?user=skalwaghe-56&theme=tokyonight"
+      media="(prefers-color-scheme: dark)" />
+    <source 
+      srcset="https://github-readme-streak-stats.herokuapp.com?user=skalwaghe-56&theme=default"
+      media="(prefers-color-scheme: light)" />
+    <img src="https://github-readme-streak-stats.herokuapp.com?user=skalwaghe-56" height="165" alt="GitHub Streak Stats" />
+  </picture>
+</p>
+
+<p align="center">
+  <picture>
+    <source 
+      srcset="https://github-readme-stats.vercel.app/api/top-langs/?username=skalwaghe-56&layout=compact&theme=tokyonight"
+      media="(prefers-color-scheme: dark)" />
+    <source 
+      srcset="https://github-readme-stats.vercel.app/api/top-langs/?username=skalwaghe-56&layout=compact&theme=default"
+      media="(prefers-color-scheme: light)" />
+    <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=skalwaghe-56&layout=compact" height="150" alt="Top Languages" />
+  </picture>
+</p>
+
+---
+
+## 📫 Let's Connect!
+- ✉️ Email: **skalwaghe56@gmail.com**  
+- 💻 GitHub: [@skalwaghe-56](https://github.com/skalwaghe-56)  
+
+---
+
+> 🪶 *“Code. Learn. Contribute. Repeat.”*  
+> — Shreyash Kalwaghe  
+
+⭐ Thanks for stopping by!  
+If you liked something, don’t forget to star it — every ⭐ keeps a young developer motivated!
