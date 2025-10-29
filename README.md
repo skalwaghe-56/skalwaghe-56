@@ -45,16 +45,6 @@ A passionate **Python lover** and active open-source contributor, I believe in g
 <p align="center">
   <picture>
     <source 
-      srcset="https://github-readme-stats.vercel.app/api?username=skalwaghe-56&show_icons=true&theme=tokyonight"
-      media="(prefers-color-scheme: dark)" />
-    <source 
-      srcset="https://github-readme-stats.vercel.app/api?username=skalwaghe-56&show_icons=true&theme=default"
-      media="(prefers-color-scheme: light)" />
-    <img src="https://github-readme-stats.vercel.app/api?username=skalwaghe-56&show_icons=true" height="165" alt="GitHub Stats" />
-  </picture>
-
-  <picture>
-    <source 
       srcset="https://github-readme-streak-stats.herokuapp.com?user=skalwaghe-56&theme=tokyonight"
       media="(prefers-color-scheme: dark)" />
     <source 
