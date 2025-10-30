@@ -45,12 +45,12 @@ A passionate **Python lover** and active open-source contributor, I believe in g
 <p align="center">
   <picture>
     <source 
-      srcset="https://github-readme-streak-stats.herokuapp.com?user=skalwaghe-56&theme=tokyonight"
+      srcset="https://github-readme-streak-stats-dun-eta.vercel.app?user=skalwaghe-56&theme=tokyonight"
       media="(prefers-color-scheme: dark)" />
     <source 
-      srcset="https://github-readme-streak-stats.herokuapp.com?user=skalwaghe-56&theme=default"
+      srcset="https://github-readme-streak-stats-dun-eta.vercel.app?user=skalwaghe-56&theme=default"
       media="(prefers-color-scheme: light)" />
-    <img src="https://github-readme-streak-stats.herokuapp.com?user=skalwaghe-56" height="165" alt="GitHub Streak Stats" />
+    <img src="https://github-readme-streak-stats-dun-eta.vercel.app?user=skalwaghe-56" height="165" alt="GitHub Streak Stats" />
   </picture>
 </p>
 
