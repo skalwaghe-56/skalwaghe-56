@@ -1,17 +1,17 @@
 <h1 align="center">🌟 Hey there, I'm <b>Shreyash Kalwaghe</b> (aka skalwaghe_56) 👋</h1>
 <p align="center">
-  <b>15-year-old Open-Source Enthusiast | Python Developer | Lifelong Learner 🚀</b><br>
+  <b>16-year-old Open-Source Enthusiast | Python Developer | Lifelong Learner 🚀</b><br>
   <i>"Coding. Learning. Contributing. — One commit at a time."</i>
 </p>
 
 <p align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=600&size=20&duration=2500&pause=1000&color=00F5C8&center=true&vCenter=true&width=650&lines=Building+the+Future,+One+Commit+at+a+Time+⚡;15+and+Already+Shipping+Ideas+🚀;Turning+Dreams+into+Code+💻;Creating+Impact,+Not+Just+Projects+🌍;Disrupting+the+Ordinary+with+Extraordinary+Code+🔥" alt="Typing SVG" />
+  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=600&size=20&duration=2500&pause=1000&color=00F5C8&center=true&vCenter=true&width=650&lines=Building+the+Future,+One+Commit+at+a+Time+⚡;Turning+Dreams+into+Code+💻;Creating+Impact,+Not+Just+Projects+🌍;Disrupting+the+Ordinary+with+Extraordinary+Code+🔥" alt="Typing SVG" />
 </p>
 
 ---
 
 ## 🚀 About Me
-I'm a **15-year-old developer** from Pune who loves building, breaking, and improving things with code.  
+I'm a **16-year-old developer** from Pune who loves building, breaking, and improving things with code.  
 A passionate **Python lover** and active open-source contributor, I believe in growing through collaboration, curiosity, and contribution.  
 
 - 🐍 Python enthusiast (with experience in a few other languages too)  
@@ -51,18 +51,6 @@ A passionate **Python lover** and active open-source contributor, I believe in g
       srcset="https://github-readme-streak-stats-dun-eta.vercel.app?user=skalwaghe-56&theme=default"
       media="(prefers-color-scheme: light)" />
     <img src="https://github-readme-streak-stats-dun-eta.vercel.app?user=skalwaghe-56" height="165" alt="GitHub Streak Stats" />
-  </picture>
-</p>
-
-<p align="center">
-  <picture>
-    <source 
-      srcset="https://github-readme-stats.vercel.app/api/top-langs/?username=skalwaghe-56&layout=compact&theme=tokyonight"
-      media="(prefers-color-scheme: dark)" />
-    <source 
-      srcset="https://github-readme-stats.vercel.app/api/top-langs/?username=skalwaghe-56&layout=compact&theme=default"
-      media="(prefers-color-scheme: light)" />
-    <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=skalwaghe-56&layout=compact" height="150" alt="Top Languages" />
   </picture>
 </p>
 
